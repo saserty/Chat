@@ -29,8 +29,8 @@ namespace oop_classes
             BSsort.Sort(array);
             BSsort.Print(array);
             Console.WriteLine("end");
-            //Queue
-            //Stack
+            //Queue_todo
+            //Stack-todo
 
             Console.ReadKey();
         }
