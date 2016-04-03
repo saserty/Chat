@@ -1,0 +1,6 @@
+H:\VisualStudio\git_location\LinkedList-HW\LinkedList-HW\bin\Debug\LinkedList-HW.exe.config
+H:\VisualStudio\git_location\LinkedList-HW\LinkedList-HW\obj\Debug\LinkedList-HW.csprojResolveAssemblyReference.cache
+H:\VisualStudio\git_location\LinkedList-HW\LinkedList-HW\bin\Debug\LinkedList-HW.exe
+H:\VisualStudio\git_location\LinkedList-HW\LinkedList-HW\bin\Debug\LinkedList-HW.pdb
+H:\VisualStudio\git_location\LinkedList-HW\LinkedList-HW\obj\Debug\LinkedList-HW.exe
+H:\VisualStudio\git_location\LinkedList-HW\LinkedList-HW\obj\Debug\LinkedList-HW.pdb
