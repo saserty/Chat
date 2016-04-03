@@ -1,0 +1,6 @@
+d:\dev\visual studio 2013\Projects\second-1-100\second-1-100\bin\Debug\second-1-100.exe.config
+d:\dev\visual studio 2013\Projects\second-1-100\second-1-100\bin\Debug\second-1-100.exe
+d:\dev\visual studio 2013\Projects\second-1-100\second-1-100\bin\Debug\second-1-100.pdb
+d:\dev\visual studio 2013\Projects\second-1-100\second-1-100\obj\Debug\second-1-100.csprojResolveAssemblyReference.cache
+d:\dev\visual studio 2013\Projects\second-1-100\second-1-100\obj\Debug\second-1-100.exe
+d:\dev\visual studio 2013\Projects\second-1-100\second-1-100\obj\Debug\second-1-100.pdb
