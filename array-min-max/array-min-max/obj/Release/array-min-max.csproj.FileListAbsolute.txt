@@ -1,5 +1,0 @@
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\bin\Release\array-min-max.exe.config
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\bin\Release\array-min-max.exe
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\bin\Release\array-min-max.pdb
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\obj\Release\array-min-max.exe
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\obj\Release\array-min-max.pdb

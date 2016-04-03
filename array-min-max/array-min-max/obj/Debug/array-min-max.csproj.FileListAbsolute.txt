@@ -1,6 +1,0 @@
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\bin\Debug\array-min-max.exe.config
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\bin\Debug\array-min-max.exe
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\bin\Debug\array-min-max.pdb
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\obj\Debug\array-min-max.csprojResolveAssemblyReference.cache
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\obj\Debug\array-min-max.exe
-d:\dev\visual studio 2013\Projects\array-min-max\array-min-max\obj\Debug\array-min-max.pdb
