@@ -1,0 +1,6 @@
+d:\dev\visual studio 2013\Projects\sorting\sorting\bin\Release\sorting.exe.config
+d:\dev\visual studio 2013\Projects\sorting\sorting\bin\Release\sorting.exe
+d:\dev\visual studio 2013\Projects\sorting\sorting\bin\Release\sorting.pdb
+d:\dev\visual studio 2013\Projects\sorting\sorting\obj\Release\sorting.csprojResolveAssemblyReference.cache
+d:\dev\visual studio 2013\Projects\sorting\sorting\obj\Release\sorting.exe
+d:\dev\visual studio 2013\Projects\sorting\sorting\obj\Release\sorting.pdb
