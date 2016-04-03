@@ -1,0 +1,6 @@
+d:\dev\visual studio 2013\Projects\oop_classes\oop_classes\bin\Debug\oop_classes.exe.config
+d:\dev\visual studio 2013\Projects\oop_classes\oop_classes\bin\Debug\oop_classes.exe
+d:\dev\visual studio 2013\Projects\oop_classes\oop_classes\bin\Debug\oop_classes.pdb
+d:\dev\visual studio 2013\Projects\oop_classes\oop_classes\obj\Debug\oop_classes.csprojResolveAssemblyReference.cache
+d:\dev\visual studio 2013\Projects\oop_classes\oop_classes\obj\Debug\oop_classes.exe
+d:\dev\visual studio 2013\Projects\oop_classes\oop_classes\obj\Debug\oop_classes.pdb
