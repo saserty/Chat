@@ -38,6 +38,8 @@ namespace LinkedList_HW
             NewList.AddToEnd(555);
             Console.WriteLine("Print");
             NewList.PrintLL();
+            Console.WriteLine("Peek");
+            Console.WriteLine(NewList.GetLast());
             
             Console.ReadKey();
         }

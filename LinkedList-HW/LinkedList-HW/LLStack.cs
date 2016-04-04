@@ -8,89 +8,42 @@ namespace LinkedList_HW
 {
     class LLStack <T>
     {
-        protected T[] myStackArray;
-        protected int topPossition = 0;
-
-        public DynamicStack()
-        {
-            myStackArray = new T[4];
-        }
-
-        private int Capacity
-        {
-            get
-            {
-                return myStackArray.Length;
-            }
-        }
-        
-        public bool IsFull()
-        {
-            if (topPossition == Capacity)
-            {
-                return true;
-            }
-            return false;
-        }
+        MyLinkedList<T> LLinStack = new MyLinkedList<T>();
 
         public bool IsEmpty()
         {
-            if (topPossition == 0)
+            if (LLinStack.ListIsEmpty())
             {
-                Console.WriteLine("The Array is empty");
                 return true;
             }
             return false;
         }
-
-        public void Push(T element)
+        
+        public void Push (T data)
         {
-            if (!IsFull())
-            {
-                myStackArray[topPossition] = element;
-                Console.WriteLine("The new element {0} was sucessfully added to Stack", element);
-                topPossition++;
-            }
-            else
-            {
-                Resize();
-                myStackArray[topPossition] = element;
-                topPossition++; 
-            }
+            LLinStack.AddToEnd(data);
         }
 
         public T Pop()
         {
+            T SomePop;
             if (!IsEmpty())
             {
-                 Console.WriteLine("The last element {0} was sucessfully removed from Stack", myStackArray[topPossition - 1]);
-                topPossition--;
-                return myStackArray[topPossition];
+                SomePop = LLinStack.RemoveFromLL();
+                return SomePop;
             }
-            else { return default (T); }
+            return default(T);
         }
 
         public T Peek()
         {
+            T SomePeek;
             if (!IsEmpty())
             {
-                Console.WriteLine("The last element in Stack is {0}", myStackArray[topPossition - 1]);
-                return myStackArray[topPossition - 1];
+                SomePeek = LLinStack.GetLast();
+                return SomePeek;
             }
-            else { return default (T); }
+            return default(T);
         }
-        
-        private void Resize()
-        {
-            T[] resizeArray = new T[Capacity * 2];
-
-            for (int i = 0; i < myStackArray.Length; i++)
-            {
-                resizeArray[i] = myStackArray[i];
-
-            }
-
-           myStackArray = resizeArray;
-       }
     }
 }

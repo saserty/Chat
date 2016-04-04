@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace LinkedList_HW
 {
-    public class MyLinkedList<T>
+    public class MyLinkedList<T> //: IEnumerable
     {
-        private class MyNode
+        public class MyNode
         {
             public T data;
             public MyNode next;
@@ -39,6 +40,23 @@ namespace LinkedList_HW
                 current.next = NewNode;
             }
         }
+        
+        public T RemoveFromLL()
+        {
+            T removeItem = head.data;
+            head = head.next;
+            return removeItem;
+        }
+
+        public bool ListIsEmpty()
+        {
+            if (head==null)
+            {
+                return true;
+            }
+            return false;
+        }
+
         public void PrintLL()
         {
             MyNode current = head;
@@ -46,6 +64,26 @@ namespace LinkedList_HW
             {
                 Console.WriteLine(current.data);
                 current = current.next;
+            }
+        }
+
+        public T GetLast()
+        {
+            MyNode result = head;
+
+            if (result == null)
+                return default(T);
+
+            while (true)
+            {
+                if (result.next != null)
+                {
+                    result = result.next;
+                }
+                else
+                {
+                    return result.data;
+                }
             }
         }
     }
