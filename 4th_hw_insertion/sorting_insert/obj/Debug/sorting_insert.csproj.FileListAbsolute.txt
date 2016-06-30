@@ -1,6 +1,0 @@
-d:\dev\visual studio 2013\Projects\sorting_insert\sorting_insert\bin\Debug\sorting_insert.exe.config
-d:\dev\visual studio 2013\Projects\sorting_insert\sorting_insert\bin\Debug\sorting_insert.exe
-d:\dev\visual studio 2013\Projects\sorting_insert\sorting_insert\bin\Debug\sorting_insert.pdb
-d:\dev\visual studio 2013\Projects\sorting_insert\sorting_insert\obj\Debug\sorting_insert.csprojResolveAssemblyReference.cache
-d:\dev\visual studio 2013\Projects\sorting_insert\sorting_insert\obj\Debug\sorting_insert.exe
-d:\dev\visual studio 2013\Projects\sorting_insert\sorting_insert\obj\Debug\sorting_insert.pdb

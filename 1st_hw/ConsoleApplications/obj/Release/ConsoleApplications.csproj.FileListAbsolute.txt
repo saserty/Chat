@@ -1,6 +1,0 @@
-d:\dev\visual studio 2013\Projects\ConsoleApplications\ConsoleApplications\bin\Release\ConsoleApplications.exe.config
-d:\dev\visual studio 2013\Projects\ConsoleApplications\ConsoleApplications\bin\Release\ConsoleApplications.exe
-d:\dev\visual studio 2013\Projects\ConsoleApplications\ConsoleApplications\bin\Release\ConsoleApplications.pdb
-d:\dev\visual studio 2013\Projects\ConsoleApplications\ConsoleApplications\obj\Release\ConsoleApplications.exe
-d:\dev\visual studio 2013\Projects\ConsoleApplications\ConsoleApplications\obj\Release\ConsoleApplications.pdb
-d:\dev\visual studio 2013\Projects\ConsoleApplications\ConsoleApplications\obj\Release\ConsoleApplications.csprojResolveAssemblyReference.cache
